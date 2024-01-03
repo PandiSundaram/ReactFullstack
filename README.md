@@ -1,8 +1,11 @@
 
 
-Code reusability - HOC, Render Props, Custom Hooks
-Performance improvment - useCallback, useMemo - purecomponent
-Statemanagement - useContext
+Code reusability 
+    - HOC, Render Props, Custom Hooks
+Performance improvment 
+    - useCallback, useMemo - purecomponent
+Statemanagement 
+    - useContext
 
 
 
