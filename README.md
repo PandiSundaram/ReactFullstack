@@ -3,7 +3,7 @@
 # Code reusability 
     - HOC, Render Props, Custom Hooks
 # Performance improvment 
-    - useCallback, useMemo - purecomponent
+    - useCallback, useMemo - purecomponent , Dynamic Imports, Lazy loading imports
 # State management 
     - useContext
 
