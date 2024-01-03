@@ -1,10 +1,10 @@
 
 
-Code reusability 
+# Code reusability 
     - HOC, Render Props, Custom Hooks
-Performance improvment 
+# Performance improvment 
     - useCallback, useMemo - purecomponent
-Statemanagement 
+# State management 
     - useContext
 
 
