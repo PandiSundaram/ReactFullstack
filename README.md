@@ -3,9 +3,9 @@
 # Code reusability 
     - HOC, Render Props, Custom Hooks
 # Performance improvment 
-    - useCallback, useMemo - purecomponent , Dynamic Imports, Lazy loading imports
+    - useCallback, useMemo - purecomponent , Dynamic Imports, Lazy loading imports , Profiler on react dev tools
 # State management 
-    - useContext
+    - useContext   React.createContext , provider, consumer
 
 
 
