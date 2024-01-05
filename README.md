@@ -1,3 +1,17 @@
+
+
+# Code reusability 
+    - HOC, Render Props, Custom Hooks
+# Performance improvment 
+    - useCallback, useMemo - purecomponent , Dynamic Imports, Lazy loading imports , Profiler on react dev tools
+# State management 
+    - useContext   React.createContext , provider, consumer
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
